@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>LOCK - Management</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+     <CMPNAME>DEQUEUE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Dequeue</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+     <CMPNAME>DEQUEUE_BY_ID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Dequeue by ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+     <CMPNAME>ENQUEUE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Enqueue</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+     <CMPNAME>GENERATE_ID_LOCK</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Generate ID Lock</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+     <CMPNAME>QUERY</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Query</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_LOCK_MANAGEMENT</CLSNAME>
+     <CMPNAME>SEARCH_VALUES_ALREADY_LOCKED</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Check if the values is already locked</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
